@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/breaking-bad-cast/static/css/main.25d28606.css",
+    "main.js": "/breaking-bad-cast/static/js/main.b7cff538.js",
+    "static/media/Spinner.gif": "/breaking-bad-cast/static/media/Spinner.0d8837f6512ccb5bb2fd.gif",
+    "index.html": "/breaking-bad-cast/index.html",
+    "main.25d28606.css.map": "/breaking-bad-cast/static/css/main.25d28606.css.map",
+    "main.b7cff538.js.map": "/breaking-bad-cast/static/js/main.b7cff538.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25d28606.css",
+    "static/js/main.b7cff538.js"
+  ]
+}
