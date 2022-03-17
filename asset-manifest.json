@@ -1,14 +1,14 @@
 {
-  "files": {
-    "main.css": "/breakingBad/static/css/main.25d28606.css",
-    "main.js": "/breakingBad/static/js/main.affb4fa6.js",
-    "static/media/Spinner.gif": "/breakingBad/static/media/Spinner.0d8837f6512ccb5bb2fd.gif",
-    "index.html": "/breakingBad/index.html",
-    "main.25d28606.css.map": "/breakingBad/static/css/main.25d28606.css.map",
-    "main.affb4fa6.js.map": "/breakingBad/static/js/main.affb4fa6.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.25d28606.css",
-    "static/js/main.affb4fa6.js"
-  ]
+  "main.css": "/breakingBad/static/css/main.094dbe9d.chunk.css",
+  "main.js": "/breakingBad/static/js/main.6f3ddfd8.chunk.js",
+  "main.js.map": "/breakingBad/static/js/main.6f3ddfd8.chunk.js.map",
+  "static/js/1.f4d9d6ed.chunk.js": "/breakingBad/static/js/1.f4d9d6ed.chunk.js",
+  "static/js/1.f4d9d6ed.chunk.js.map": "/breakingBad/static/js/1.f4d9d6ed.chunk.js.map",
+  "runtime~main.js": "/breakingBad/static/js/runtime~main.fa0fa72d.js",
+  "runtime~main.js.map": "/breakingBad/static/js/runtime~main.fa0fa72d.js.map",
+  "static/media/Spinner.gif": "/breakingBad/static/media/Spinner.eff59f96.gif",
+  "static/css/main.094dbe9d.chunk.css.map": "/breakingBad/static/css/main.094dbe9d.chunk.css.map",
+  "index.html": "/breakingBad/index.html",
+  "precache-manifest.b58a9560c9c226e8fa04f1b35cecf1d8.js": "/breakingBad/precache-manifest.b58a9560c9c226e8fa04f1b35cecf1d8.js",
+  "service-worker.js": "/breakingBad/service-worker.js"
 }
